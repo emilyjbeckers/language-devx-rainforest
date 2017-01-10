@@ -1,0 +1,14 @@
+{
+  "name": "language-devx-rainforest",
+  "version": "0.0.0",
+  "description": "Language support for Rainforest CLI tests",
+  "keywords": [
+    "language",
+    "grammar"
+  ],
+  "repository": "https://github.com/emilyjbeckers/language-devx-rainforest",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

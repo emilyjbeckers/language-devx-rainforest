@@ -1,3 +1,3 @@
-# PackageName language package
+# Rainforest DevX Language Support
 
-A short description of your language package.
+Syntax highlighting for the CLI language used by Rainforest (DevX) tests. 
